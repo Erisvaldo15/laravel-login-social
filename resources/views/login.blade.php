@@ -26,7 +26,7 @@
                 <p class="error-message hide"></p>
             </div>
             <div class="socials">
-                <a href="#" class="social">
+                <a href="/auth/google/redirect" class="social">
                     <img src="/images/google.svg" alt="Google Icon">
                     <p> Google </p>
                 </a>
